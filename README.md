@@ -28,3 +28,12 @@ Overall, this code presents a structured and informative layout aimed at promoti
 In CSS code I use Media Queries  ensure that the website looks responsive and  adapts well across different screen sizes, maintaining readability and usability.  
 
 Then I use Javascript code for the Module section,Testinomal section and the FAQ section to add some interactive functionalities. 
+
+
+Screenshots:-
+![Screenshot 2024-09-20 093541](https://github.com/user-attachments/assets/c7ab216c-918a-4a13-886e-98205426ff73)
+![Screenshot 2024-09-20 093621](https://github.com/user-attachments/assets/28898559-869a-4f65-8a73-381a037b68bc)
+![Screenshot 2024-09-20 093645](https://github.com/user-attachments/assets/07d552e1-5b1c-497f-b19a-2f23e154ab0c)
+![Screenshot 2024-09-20 093706](https://github.com/user-attachments/assets/7ed34dcc-1703-4c44-9834-655f01484c5f)
+
+
