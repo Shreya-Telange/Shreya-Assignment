@@ -147,13 +147,30 @@ li{
     padding: 10px;
   }
 }
-
-@media screen and (max-width: 400px) {
-  #next-btn {
-    font-size: 14px; /* Reduce font size for smaller screens */
-    padding: 8px 16px;
+/* Media Queries  */
+  @media (max-width: 768px) {
+    .testimonial-container {
+      max-width: 100%; /* Make sure it takes up the full width on mobile */
+      padding: 15px;
+      margin: 0 auto;
+    }
+  
+    #testimonial-text {
+      font-size: 14px; /* Adjust font size for readability */
+      padding: 10px 0;
+    }
+  
+    #author {
+      font-size: 12px;
+      margin-top: 5px;
+    }
+  
+    #next-btn {
+      width: 100%; /* Ensure button fills the width */
+      font-size: 14px;
+    }
   }
-}
+
 .faq-item {
     margin-bottom: 20px; 
 }
